@@ -1,7 +1,7 @@
 name: Deploy Stack Data Lake
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 jobs:
   deploy:
     runs-on: ubuntu-latest
