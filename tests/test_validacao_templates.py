@@ -1,7 +1,7 @@
 import pytest
 import boto3
 import logging
-from utils.files_utils import get_cloudformation_templates
+from infra_como_codigo.utils.files_utils import get_cloudformation_templates
 
 logging.basicConfig(level=logging.INFO)
 cloudformation_client = boto3.client('cloudformation')

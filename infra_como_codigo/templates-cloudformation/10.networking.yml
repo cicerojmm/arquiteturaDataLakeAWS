@@ -1,4 +1,4 @@
-Description: Criação de recursos de rede
+Description: Criacao de recursos de rede
 
 Resources:
   Vpc:

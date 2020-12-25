@@ -1,4 +1,4 @@
-Description: Cria um Bucket S3
+Description: Cria Servidor de aplicação no EC2
 
 Resources:
   AppEC2:
